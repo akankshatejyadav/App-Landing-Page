@@ -1,0 +1,45 @@
+body {
+              
+    position: relative;
+    padding: 0;
+    margin: 0;
+              
+ }
+.jumbotron{
+    background-image: url(images/sea-city-sky-water-116720.jpg);
+    text-align: center;
+    
+}
+
+
+#about{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#card-img-top{
+    width: 100%;
+    
+}
+
+#card{
+   padding-bottom: 40px;
+}
+
+
+#appicon{
+     width: 200px;
+    margin: 10px;
+}
+#app{
+    
+     background-color: aqua;
+     padding-top: 150px;
+     margin-top: 50px;
+    text-align: center;
+    padding-bottom: 150px;
+}
+
+
+
